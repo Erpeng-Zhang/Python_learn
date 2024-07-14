@@ -12,7 +12,6 @@ https://youtu.be/XKHEtdqhLK8?si=L-c30rp08X7KOpD9
 '''
 # # class7: math functions 数学函数
 # import math
-
 # pi = 3.14
 # x,y,z = 1,2,3
 
