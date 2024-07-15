@@ -1,8 +1,15 @@
 '''
 class from Bro Code
 https://youtu.be/XKHEtdqhLK8?si=L-c30rp08X7KOpD9
-#28 
-
+#28 str .format() 
+#29 random module
+#30 exceptions handling
+#31 file detection
+#32 read a file
+#33 write to a file
+#34 copy a file
+#35 move a file
+#36 delete a file
 '''
 
 
